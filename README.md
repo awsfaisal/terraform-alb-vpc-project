@@ -65,5 +65,5 @@ terraform-aws-alb-webapp/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/terraform-aws-alb-webapp.git
+git clone https://github.com/awsfaisal/terraform-alb-vpc-project.git
 cd terraform-aws-alb-webapp
